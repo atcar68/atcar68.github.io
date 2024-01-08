@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "点播源",
-      "name": "空",
+      "name": "Atcar",
       "type": 0,
       "api": "X.API",
       "searchable": 1,
@@ -28,6 +28,17 @@
         }
       ]
     }
+  ],
+ "flags": [
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
   ],
   "ijk": [
     {
