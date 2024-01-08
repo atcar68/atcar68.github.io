@@ -1,0 +1,17 @@
+Atcar,#genre#
+CCTV-1,http39.134.24.161dbiptv.sn.chinamobile.comPLTV888888902243221225804index.m3u8
+CCTV-1,http120.196.232.1248088rrs03.hw.gmcc.netPLTV65122432212266671.m3u8
+CCTV-4,http120.196.232.1248088rrs03.hw.gmcc.netPLTV65122432212267251.m3u8
+CCTV-4,http36.33.240.489901tsfilelive0004_1.m3u8
+CCTV-5,http39.134.24.162dbiptv.sn.chinamobile.comPLTV888888902243221226395index.m3u8
+CCTV-5,http120.196.232.1248088rrs03.hw.gmcc.netPLTV65122432212267311.m3u8
+CCTV-13,httpslive-play.cctvnews.cctv.comcctvmerge_cctv13.m3u8
+CCTV-13.http[240980871e03212]6060cms001ch00000090990000001328index.m3u8
+
+凤凰香港,httpline.premiumpowers.netplaylive.phpmac=001A79734510&extension=ts&stream=153402
+海丰综合,httpci.emdoor.tech8080touchtv.phppk=2413
+
+南方卫视,httpdbiptv.sn.chinamobile.comPLTV888888902243221226218index.m3u8
+深圳卫视,httpsiptv.luas.edu.cnliverespath536ebe8b7165b25c8670e42eb8b7b4b6d178f158a98f61eca9-0-0-c5ea37622772aa5d5e0d8838c68c61d9index.m3u8
+湖南卫视,http120.196.232.1248088rrs03.hw.gmcc.netPLTV65122432212266981.m3u8
+浙江卫视,http183.134.3.228888newlivelivehls23live.m3u8
