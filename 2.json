@@ -5,9 +5,6 @@
             "name": "①1080",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/apijson.php" 
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
     ],
     "lives": [
         {
