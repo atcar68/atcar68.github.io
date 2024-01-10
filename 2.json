@@ -2,9 +2,9 @@
     "sites": [
         {
             "key": "2d50e74976a7802fd673d75738bce50e",
-            "name": "Atcar",
+            "name": "①1080",
             "type": 0,
-            "api": "XXX" 
+            "api": "https://api.1080zyku.com/inc/apijson.php" 
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
