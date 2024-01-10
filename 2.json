@@ -1,7 +1,7 @@
 {
     "sites": [
         {
-            "key": "点播源",
+            "key": "2d50e74976a7802fd673d75738bce50e",
             "name": "Atcar",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/apijson.php"
