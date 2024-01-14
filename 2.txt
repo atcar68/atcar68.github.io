@@ -67,7 +67,6 @@ CCTV-13新闻,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8,
 CCTV-13新闻,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 
-
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8,
 广东卫视,http://39.134.66.163/PLTV/88888888/224/3221225966/index.m3u8,
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8,
@@ -98,11 +97,46 @@ CCTV-13新闻,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 浙江卫视,http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8,
 浙江卫视,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8
 
+北京卫视,http://39.134.67.185/PLTV/88888888/224/3221225678/index.m3u8,
+北京卫视,http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8,
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8,
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8,
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+
+天津卫视,http://39.134.65.166/PLTV/88888888/224/3221225665/index.m3u8,
+天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8,
+天津卫视,http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8,
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8,
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+
 江苏卫视,http://39.134.67.110/PLTV/88888888/224/3221225938/index.m3u8,
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8,
 江苏卫视,http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8,
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8,
 江苏卫视,http://39.134.66.2/PLTV/88888888/224/3221225503/index.m3u8
+
+安徽卫视,http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8,
+安徽卫视,http://39.134.65.143/PLTV/88888888/224/3221225925/1.m3u8,
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8,
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?
+
+云南卫视,http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8,
+云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8,
+云南卫视,https://epg.pw/stream/f72d8c76d15c9cf3efe23af82179802a374d97971eb4f87a304f1db28cbc482b.ctv,
+云南卫视,https://epg.pw/stream/9ec5350e6d4fc8fa0d020c7ec6b3382fa83ccfe40cb5d71cc89cf2505e81bb95.m3u8,
+云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8,
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8,
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8,
+湖北卫视,http://39.134.65.162/PLTV/88888888/224/3221225569/index.m3u8,
+
+贵州卫视,http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8,
+贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8,
+贵州卫视,http://39.134.65.141/PLTV/88888888/224/3221225974/1.m3u8,
+贵州卫视,http://39.134.65.145/PLTV/88888888/224/3221225974/1.m3u8,
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+
 
 海丰综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2413
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
